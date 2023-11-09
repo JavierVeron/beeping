@@ -51,3 +51,5 @@ QUEUE_CONNECTION=database</p>
 
 <p>Abrir el navegador web e ingresar en:</p>
 <p><pre><a href="http://localhost:8000/">http://localhost:8000/</a></pre></p>
+
+<p align="center"><img src="https://javierveron.github.io/beeping/beeping.jpg" alt="Beeping" /></p>
